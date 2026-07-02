@@ -14,7 +14,7 @@
 
 <br/>
 
-<h2 align="center">🛡️ ABOUT ME</h2>
+<h2 align="center"> ABOUT ME</h2>
 
 <div align="center">
 
