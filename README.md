@@ -1,93 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dharanikumar%20L&fontSize=48&fontColor=00FF9C&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Aspiring%20SOC%20Analyst&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Dharanikumar%20L&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Cyber%20Security%20Student%20%7C%20Aspiring%20SOC%20Analyst&descAlignY=65&descSize=16&descColor=00FF9C" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Cyber+Security+Student+%40+MCET%2C+Pollachi;Passionate+about+Blue+Teaming+%26+Threat+Detection;Aspiring+SOC+Analyst+%7C+NPTEL+Certified+in+Ethical+Hacking;Building+skills+through+Hands-on+Labs+%26+CTFs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=Cyber+Security+Student+at+MCET%2C+Pollachi;Focused+on+Blue+Teaming+and+Threat+Detection;Aspiring+SOC+Analyst;NPTEL+Certified+in+Ethical+Hacking" alt="Typing SVG" />
 </a>
 
 <br/>
 
 
-
 </div>
 
 <br/>
 
-<h2 align="center"> ABOUT ME</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <div align="center">
 
 ```yaml
-🎓 Education     : B.E. Cyber Security @ Dr. Mahalingam College of Engineering & Technology (MCET)
-
-📍 Location      : Pollachi, Tamil Nadu, India
-
-🎯 Career Goal   : Security Operations Center (SOC) Analyst
-
-📜 Certification : NPTEL Ethical Hacking (Completed)
-
-🔭 Focus Areas   : Security Monitoring | Threat Detection | Incident Response
-
-🌱 Currently     : Practicing SOC Labs, SIEM Tuning, and CTF Write-ups
+Education     : B.E. Cyber Security @ Dr. Mahalingam College of Engineering & Technology (MCET)
+Location      : Pollachi, Tamil Nadu, India
+Career Goal   : Security Operations Center (SOC) Analyst
+Certification : NPTEL Ethical Hacking (Completed)
+Focus Areas   : Security Monitoring | Threat Detection | Incident Response
+Currently     : Practicing SOC Labs, SIEM Tuning, and CTF Write-ups
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
 
-<h2 align="center">🎯 CAREER OBJECTIVE</h2>
+<h2 align="center">CAREER OBJECTIVE</h2>
 
 <p align="center">
 <b>To build a successful career as a Security Operations Center (SOC) Analyst</b> by applying knowledge of <b>cybersecurity, SIEM tools, threat detection, and incident response</b> to protect organizational assets — while continuously sharpening technical and analytical skills to contribute effectively to modern security operations.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
 
-<h2 align="center">🛠️ TOOLS & TECHNOLOGIES</h2>
+<h2 align="center">TOOLS & TECHNOLOGIES</h2>
 
 <div align="center">
 
-**🔎 SIEM & Security Platforms**
+**SIEM & Security Platforms**
 
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wazuh-3AB595?style=for-the-badge&logo=wazuh&logoColor=white"/>
 
-**🌐 Network Analysis & Security Tools**
+**Network Analysis & Security Tools**
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-00FF9C?style=for-the-badge&logo=nmap&logoColor=black"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
 
-**💻 Operating Systems**
+**Operating Systems**
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-**⚙️ Scripting**
+**Scripting**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 </div>
 
-<h3 align="center">🧠 Core Technical Skills</h3>
+<h3 align="center">Core Technical Skills</h3>
 
 <div align="center">
 
-| 🔐 Security Ops | 🌐 Network & Web | 💻 Systems |
+| Security Ops | Network & Web | Systems |
 |:---:|:---:|:---:|
 | SIEM (Splunk & Wazuh) | Network Traffic Analysis | Linux Fundamentals |
 | Log Analysis | Reconnaissance & Enumeration | Vulnerability Assessment |
 | Security Monitoring | Web App Security Basics | Incident Response Fundamentals |
-
+| Alert Investigation | — | — |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
 
-<h2 align="center">📖 CURRENT LEARNING</h2>
+<h2 align="center">CURRENT LEARNING</h2>
 
 <div align="center">
 
@@ -100,70 +94,63 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
 
-<h2 align="center">📂 GITHUB GOALS</h2>
+<h2 align="center">GITHUB GOALS</h2>
 
 <p align="center">This repository is my <b>cybersecurity learning portfolio</b>, documenting progress through:</p>
 
-<div align="center">
+<p align="center">
+SOC Lab Write-ups &nbsp;•&nbsp; Blue Team Projects &nbsp;•&nbsp; Detection Rules &nbsp;•&nbsp; SIEM Dashboards<br/>
+IDS/IPS Configurations &nbsp;•&nbsp; Network Security Labs &nbsp;•&nbsp; TryHackMe & CTF Write-ups<br/>
+Cybersecurity Notes &nbsp;•&nbsp; Python Security Automation &nbsp;•&nbsp; Linux & Networking Practice
+</p>
 
-🧪 SOC Lab Write-ups &nbsp;•&nbsp; 🔵 Blue Team Projects &nbsp;•&nbsp; 🚨 Detection Rules &nbsp;•&nbsp; 📊 SIEM Dashboards
-🛡️ IDS/IPS Configurations &nbsp;•&nbsp; 🌐 Network Security Labs &nbsp;•&nbsp; 🏁 TryHackMe & CTF Write-ups
-📝 Cybersecurity Notes &nbsp;•&nbsp; 🐍 Python Security Automation &nbsp;•&nbsp; 🐧 Linux & Networking Practice
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=3&width=100%"/>
-
-<h2 align="center">📊 GITHUB STATS</h2>
+<h2 align="center">GITHUB STATS</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharanikumarl&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharanikumarl&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharanikumar-L&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanikumar-L&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharanikumarl&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharanikumar-L&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharanikumarl&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharanikumar-L&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
 
-<h2 align="center">🏆 TROPHIES</h2>
+<h2 align="center">TROPHIES</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dharanikumarl&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dharanikumar-L&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
 
-<h2 align="center">📫 CONNECT WITH ME</h2>
+<h2 align="center">CONNECT WITH ME</h2>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:dharanikumar4994@mail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/dharanikumarl" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://tryhackme.com/p/YOUR-THM-ID" target="_blank">
+<a href="https://tryhackme.com/p/dharanikumar4994" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+<a href="https://www.linkedin.com/in/dharanikumar-l-a770a232b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Dharanikumar-L" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<i>Feel free to explore my repositories, share feedback, or connect with me as I continue my journey toward becoming a skilled SOC Analyst.</i>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer"/>
