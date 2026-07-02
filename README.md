@@ -75,7 +75,6 @@ Currently     : Practicing SOC Labs, SIEM Tuning, and CTF Write-ups
 | SIEM (Splunk & Wazuh) | Network Traffic Analysis | Linux Fundamentals |
 | Log Analysis | Reconnaissance & Enumeration | Vulnerability Assessment |
 | Security Monitoring | Web App Security Basics | Incident Response Fundamentals |
-| Alert Investigation | — | — |
 
 </div>
 
