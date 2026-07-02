@@ -95,44 +95,7 @@ Currently     : Practicing SOC Labs, SIEM Tuning, and CTF Write-ups
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
 
-<h2 align="center">GITHUB GOALS</h2>
 
-<p align="center">This repository is my <b>cybersecurity learning portfolio</b>, documenting progress through:</p>
-
-<p align="center">
-SOC Lab Write-ups &nbsp;•&nbsp; Blue Team Projects &nbsp;•&nbsp; Detection Rules &nbsp;•&nbsp; SIEM Dashboards<br/>
-IDS/IPS Configurations &nbsp;•&nbsp; Network Security Labs &nbsp;•&nbsp; TryHackMe & CTF Write-ups<br/>
-Cybersecurity Notes &nbsp;•&nbsp; Python Security Automation &nbsp;•&nbsp; Linux & Networking Practice
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
-
-<h2 align="center">GITHUB STATS</h2>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharanikumar-L&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanikumar-L&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharanikumar-L&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharanikumar-L&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
-
-<h2 align="center">TROPHIES</h2>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dharanikumar-L&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:00FF9C&height=2&width=100%"/>
 
 <h2 align="center">CONNECT WITH ME</h2>
 
